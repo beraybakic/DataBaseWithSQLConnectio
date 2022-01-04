@@ -1,0 +1,10 @@
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\bin\Debug\sqlbaglantiornegi.exe.config
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\bin\Debug\sqlbaglantiornegi.exe
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\bin\Debug\sqlbaglantiornegi.pdb
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\obj\Debug\sqlbaglantiornegi.csproj.AssemblyReference.cache
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\obj\Debug\sqlbaglantiornegi.Form1.resources
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\obj\Debug\sqlbaglantiornegi.Properties.Resources.resources
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\obj\Debug\sqlbaglantiornegi.csproj.GenerateResource.cache
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\obj\Debug\sqlbaglantiornegi.csproj.CoreCompileInputs.cache
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\obj\Debug\sqlbaglantiornegi.exe
+C:\Users\proje-bap\Desktop\EMYO\EBP201 Programlama II\Uygulamalar\sqlconnection\sqlbaglantiornegi\sqlbaglantiornegi\obj\Debug\sqlbaglantiornegi.pdb
